@@ -2,7 +2,7 @@
 
 This repo contains the source code for the paper: **REX: Rapid Exploration and eXploitation for AI Agents**
 
-## Requiremtns
+## Requirements
 
 - OpenAI API key
 
